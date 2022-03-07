@@ -1,0 +1,6 @@
+for 0-hello_world in ; do
+    $0-hello_world
+done
+
+#!/bin/bash
+echo "\"(Ôo)\'"
